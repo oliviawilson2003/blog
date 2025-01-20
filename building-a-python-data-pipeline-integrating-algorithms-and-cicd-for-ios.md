@@ -2,11 +2,12 @@ Building a Python Data Pipeline: Integrating Algorithms and CI/CD for iOS
 -------------------------------------------------------------------------
 ![My Image](https://i.postimg.cc/SxL9gWDf/23f88d25-592b-4b0a-a90f-1a5d155bba6d.png)
 
-Creating a [**data processing pipeline in Python**](https://www.yourquorum.com/question/how-do-you-create-a-data-processing-pipeline-in-python?utm_source=github_sh&utm_medium=social_sh&utm_campaign=blog) can be both rewarding and efficient. It’s all about taking raw data, processing it, and making it ready for various uses. But when working with iOS, adding algorithms and using a **CI/CD pipeline for iOS** is key to smooth development. Let’s break down how to build a Python data pipeline and make it work alongside iOS development.
+When setting up a [**data processing pipeline in Python**](https://www.yourquorum.com/question/how-do-you-create-a-data-processing-pipeline-in-python?utm_source=github_sh&utm_medium=social_sh&utm_campaign=blog), it is possible to accomplish the goal and have fun at the same time. It simply involves assembling unprocessed data, a job that involves preparation of data for multiple purposes. But when working with iOS, extending a set of algorithms and using the CI/CD pipeline for iOS is critical for successful collaboration. To make progress in the construction of a Python data pipeline and understanding how it can be integrated with iOS development let’s analyze the process step by step.
+
 
 ### What’s a Python Data Pipeline?
 
-A data pipeline is a system used to process data from one point to another. It starts with collecting data, then processes it, and ends with storing or using the output. In Python, you can use libraries like Pandas or Dask for data manipulation.
+A data pipeline implies a mechanism that is used to handle data from one stage to the other. It involves the gathering of information; analyzing the information collected; and sometimes the end result is storing the information or else using the information. In Python, if you need classical data manipulation you can use Pandas or more powerful and scalable – Dask.
 
 Here’s a simple example:
 <pre> 
